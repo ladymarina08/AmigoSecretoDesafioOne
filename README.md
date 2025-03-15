@@ -1,5 +1,3 @@
-# AmigoSecretoDesafioOne
-
 Amigo Secreto 🎁
 Este é um programa simples para organizar um sorteio de amigo secreto. Ele permite que você adicione os nomes dos participantes e sorteie um amigo secreto de forma aleatória.
 
